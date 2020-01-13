@@ -3,7 +3,7 @@ A simple game of numbers divination. Using skeleton for CSS and JavaScript for D
 
 */
 GAME FUNCTION:
-    - Player must guess a number between min and max;
+    - Player must guess a number between min and max;<br>
     - Player gets a certain amount of guesses;
     - Notify player of guesses remaining;
     - Notify the player of the correct answer if loose;
